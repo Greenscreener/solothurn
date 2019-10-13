@@ -2,8 +2,8 @@ Version 2
 // entity 0
 {
 "classname" "worldspawn"
-"editor_drLastCameraPos" "2966.52 572.563 2169.33"
-"editor_drLastCameraAngle" "-24.3 99 0"
+"editor_drLastCameraPos" "3675.14 3066.68 1013.98"
+"editor_drLastCameraAngle" "13.8 73.5 0"
 // primitive 0
 {
 brushDef3
@@ -44,18 +44,6 @@ brushDef3
 {
 brushDef3
 {
-( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 0 1 0 -3911 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 1 0 0 -4303 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 0 -1 0 3215 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( -1 0 0 3868 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-}
-}
-// primitive 4
-{
-brushDef3
-{
 ( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 61.5 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 ( 0 1 0 -3911 ) ( ( 0.03125 0 2.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 ( 1 0 0 -3868 ) ( ( 0.03125 0 1.25 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
@@ -64,7 +52,7 @@ brushDef3
 ( -1 0 0 3607 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 }
 }
-// primitive 5
+// primitive 4
 {
 brushDef3
 {
@@ -76,19 +64,7 @@ brushDef3
 ( 0 1 0 -3563 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/metal/flat/silver01" 0 0 0
 }
 }
-// primitive 6
-{
-brushDef3
-{
-( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 1.25 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 1 0 0 -4390 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 0 -1 0 3389 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 62.75 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( -1 0 0 4303 ) ( ( 0.03125 0 1.125 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-( 0 1 0 -3737 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
-}
-}
-// primitive 7
+// primitive 5
 {
 brushDef3
 {
@@ -100,7 +76,7 @@ brushDef3
 ( 1 0 0 -2824 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/metal/flat/silver01" 0 0 0
 }
 }
-// primitive 8
+// primitive 6
 {
 brushDef3
 {
@@ -112,7 +88,7 @@ brushDef3
 ( -1 0 0 2824 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 }
 }
-// primitive 9
+// primitive 7
 {
 brushDef3
 {
@@ -124,7 +100,7 @@ brushDef3
 ( -1 0 0 2824 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 }
 }
-// primitive 10
+// primitive 8
 {
 brushDef3
 {
@@ -136,7 +112,7 @@ brushDef3
 ( -1 0 0 2824 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 }
 }
-// primitive 11
+// primitive 9
 {
 brushDef3
 {
@@ -148,7 +124,7 @@ brushDef3
 ( -1 0 0 2824 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 }
 }
-// primitive 12
+// primitive 10
 {
 brushDef3
 {
@@ -160,7 +136,7 @@ brushDef3
 ( -1 0 0 2824 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 }
 }
-// primitive 13
+// primitive 11
 {
 brushDef3
 {
@@ -172,7 +148,7 @@ brushDef3
 ( 0 1 0 -1649 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/metal/flat/silver01" 0 0 0
 }
 }
-// primitive 14
+// primitive 12
 {
 brushDef3
 {
@@ -184,7 +160,7 @@ brushDef3
 ( 0 1 0 -3389 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 }
 }
-// primitive 15
+// primitive 13
 {
 brushDef3
 {
@@ -196,7 +172,7 @@ brushDef3
 ( -1 0 0 2650 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 }
 }
-// primitive 16
+// primitive 14
 {
 brushDef3
 {
@@ -208,7 +184,7 @@ brushDef3
 ( -1 0 0 2389 ) ( ( 0.001953125 0 0 ) ( 0 0.001953125 0 ) ) "textures/darkmod/metal/flat/silver01" 0 0 0
 }
 }
-// primitive 17
+// primitive 15
 {
 brushDef3
 {
@@ -220,7 +196,7 @@ brushDef3
 ( -1 0 0 2215 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 }
 }
-// primitive 18
+// primitive 16
 {
 brushDef3
 {
@@ -232,7 +208,7 @@ brushDef3
 ( -1 0 0 1954 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_fancy_blue" 0 0 0
 }
 }
-// primitive 19
+// primitive 17
 {
 brushDef3
 {
@@ -242,6 +218,150 @@ brushDef3
 ( 0 0 -1 800 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 ( 0 -1 0 1302 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
 ( -1 0 0 834 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 18
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3903 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4295 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3223 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 3876 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 1049 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 19
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3911 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4295 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 3876 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3903 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 20
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4303 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3215 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4295 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3389 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/common/caulk" 0 0 0
+}
+}
+// primitive 21
+{
+brushDef3
+{
+( 0 1 0 -3903 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4295 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3223 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 3876 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 1 -815 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 22
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4295 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3215 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 3876 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3223 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 23
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3911 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3215 ) ( ( 0.03125 0 38.4375 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 3868 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -3876 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 24
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 1.25 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4382 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3397 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4295 ) ( ( 0.03125 0 1.125 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3729 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 1049 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 1.25 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 25
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 1.25 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4390 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3389 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 62.75 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3737 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4382 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 26
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 1.25 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4382 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3389 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 62.75 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4295 ) ( ( 0.03125 0 1.125 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3397 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 27
+{
+brushDef3
+{
+( 1 0 0 -4382 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3397 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 62.75 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4295 ) ( ( 0.03125 0 1.125 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3729 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 1 -815 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 62.75 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 28
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 1.25 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4382 ) ( ( 0.03125 0 62.75 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 62.75 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4295 ) ( ( 0.03125 0 1.125 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3737 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3729 ) ( ( 0.03125 0 62.5 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+}
+}
+// primitive 29
+{
+brushDef3
+{
+( 0 0 1 -1057 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 1 0 -3911 ) ( ( 0.03125 0 25.625 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 1 0 0 -4303 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 0 -1 807 ) ( ( 0.03125 0 1.5 ) ( 0 0.03125 25.625 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( -1 0 0 4295 ) ( ( 0.03125 0 1 ) ( 0 0.03125 0 ) ) "textures/darkmod/paint_paper/wallpaper_floral_yellow" 0 0 0
+( 0 -1 0 3737 ) ( ( 0.03125 0 0.25 ) ( 0 0.03125 38.375 ) ) "textures/common/caulk" 0 0 0
 }
 }
 }
